@@ -1,0 +1,22 @@
+{
+  "name": "hellochatbot",
+  "version": "10.0.0",
+  "description": "testing chat bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reshma67/HelloChatBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reshma67/HelloChatBot/issues"
+  },
+  "homepage": "https://github.com/reshma67/HelloChatBot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
