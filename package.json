@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/reshma67/HelloChatBot#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "botbuilder": "^3.13.1",
+    "express": "^4.17.1",
+    "restify": "^8.4.0"
   }
 }
